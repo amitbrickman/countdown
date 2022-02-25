@@ -13,6 +13,7 @@
     "canvas-confetti": "^1.4.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
     "vuesax": "^4.0.1-alpha.25",
     "vuetify": "^2.4.0"
   },
