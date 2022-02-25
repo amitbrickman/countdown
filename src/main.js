@@ -4,6 +4,7 @@ import "vuesax/dist/vuesax.css"; //Vuesax styles
 import App from "./App.vue";
 import vuetify from "./plugins/vuetify";
 import "bricki-css/dist/main";
+import './registerServiceWorker'
 
 Vue.use(Vuesax, {
   colors: {

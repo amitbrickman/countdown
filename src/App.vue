@@ -60,9 +60,9 @@ export default {
   color: #c1b9ff;
 }
 
-html,
-body {
-  padding: 0;
+body,
+html {
+  padding: 0 !important;
   margin: 0;
   width: 100vw;
   overflow: hidden;
